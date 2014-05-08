@@ -1,3 +1,0 @@
-结果筛选 grep xxx
-查看进程 ps -f|-e[所有进程]
-查看端口 natstat -apn
